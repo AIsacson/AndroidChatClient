@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">disconnect</string>
+    <string name="aa">Aa</string>
+    <string name="send">send</string>
+    <string name="PORT">2001</string>
+    <string name="HOST">basen.oru.se</string>
+</resources>
